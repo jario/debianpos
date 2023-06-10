@@ -2,7 +2,7 @@
 #Com SU
 
 #sudoers
-echo "%jario ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+echo "%NAMENAMENAME ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
 # grub config sck.mode=skip GRUB_CMDLINE_LINUX="locale=pt_BR"
 
